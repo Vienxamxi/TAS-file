@@ -1,0 +1,29 @@
+{
+  "name": "tas-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "subtitle",
+    "tas",
+    "text advance subtitle",
+    "caption",
+    "subtitle-creator",
+    "video-subtitles"
+  ],
+  "files": [
+    "app.js",
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vienxamxi/TAS-file"
+  },
+  "homepage": "https://github.com/Vienxamxi/TAS-file#readme",
+  "author": "Progamingsang",
+  "license": "MIT",
+  "description": "Package npm support create file subtitle .tas (text advance subtitle) and read subtitle .tas"
+}
