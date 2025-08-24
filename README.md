@@ -1,4 +1,3 @@
-````markdown
 # 🎬 TAS File (Text Advance Subtitle)
 
 **TAS File** is a lightweight and flexible Node.js package that allows you to **create and read `.tas` (Text Advance Subtitle)** files for use in video subtitling. It supports advanced text formatting such as bold, italic, underline, and positioning.
